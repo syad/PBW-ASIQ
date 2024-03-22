@@ -1,0 +1,20 @@
+.container{
+    width: 50%;
+    margin: auto;
+}
+
+.judul{
+    text-align: center;
+}
+
+th{
+    width: 150px;
+}
+
+tbody{
+    text-align: left;
+}
+
+.nilai{
+    text-align: center;
+}

@@ -1,0 +1,8 @@
+h1, .date, #text{
+    color: green;
+   }
+
+   .big-first-letter::first-letter {
+    font-size: 16px; /* Atur ukuran huruf pertama */
+    font-weight: bold; /* Atur tebal huruf pertama */
+}

@@ -1,0 +1,36 @@
+*{
+    font-family: sans-serif;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.atas{
+    text-align: center;
+    line-height: 0.5;
+}
+
+.container{
+    width: 860px;
+    margin: auto;
+}
+
+.besarawalan::first-letter {
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+.besarawalan{
+    text-align: justify;
+}
+
+a{
+    text-decoration: none;
+    color: blue;
+}
+
+.rata{
+    text-align: justify;
+}

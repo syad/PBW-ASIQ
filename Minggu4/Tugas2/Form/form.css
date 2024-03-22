@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+    margin: 10px;
+}
+
+body{
+    margin: auto;
+    width: 700px;
+}
+
+.box{
+    padding: 5px;
+    margin-top: 5px;
+    width: 100%;
+}
+
+.radio{
+    margin-top: 10px;
+}
